@@ -14,16 +14,4 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Algorithms</name>
-			<type>2</type>
-			<location>C:/Users/Calvin/Documents/NCF_DOCS/classes/ComputationalScience/Algorithms</location>
-		</link>
-		<link>
-			<name>Algorithms/bubble_insert_merge_sort.py</name>
-			<type>1</type>
-			<location>C:/Users/Calvin/Documents/NCF_DOCS/classes/ComputationalScience/Algorithms/bubble_insert_merge_sort.py</location>
-		</link>
-	</linkedResources>
 </projectDescription>
