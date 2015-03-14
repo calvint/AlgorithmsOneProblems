@@ -1,0 +1,6 @@
+search found this many matches: 0  
+
+list of comon keys from search: []
+delete found this many matches: 10000  
+
+list of comon keys from delete: []

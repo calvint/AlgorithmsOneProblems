@@ -1,0 +1,17 @@
+inserted 10,000 elements into table_one with 0 comparisons
+
+inserted 10,000 elements into table_two with 0 comparisons
+
+inserted 10,000 elements into rb_tree with 121347 comparisons
+
+deleted last 1000 elements added to table_one with 1003 comparisons
+
+deleted last 1000 elements added to table_two with 86 comparisons
+
+deleted last 1000 elements added to rb_tree with 14775 comparisons
+
+deleted last 100 elements added to table_one with 99 comparisons
+
+deleted last 100 elements added to table_two with 16 comparisons
+
+deleted last 100 elements added to rb_tree with 1470 comparisons

@@ -1,0 +1,22 @@
+inserted 10,000 elements into rb_tree with 121370 comparisons
+
+
+inserted 10,000 elements into new type bst with 370054 comparisons and 2886 rotates
+
+
+deleted last 1000 elements added to rb_tree with 14820 comparisons
+
+
+deleted last 1000 elements from new type bst with 22079 comparisons and 107 rotates
+
+
+inserted 1000 elements into rb_tree with 10 comparisons and 107 rotates
+
+
+inserted 1000 elements into new type bst with 14287 comparisons and 0 rotates
+
+
+deleted last 100 elements added to rb_tree with 1109 comparisons
+
+
+deleted last 100 elements from new type bst with 1676 comparisons and 18 rotates

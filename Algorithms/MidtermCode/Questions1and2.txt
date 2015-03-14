@@ -1,0 +1,24 @@
+Midterm Coding Assignment:
+
+1)
+During the left rotation:
+	a is decreased by c,
+	c is increased by a-c,
+	b, d, e, f, and g are left alone.
+
+During the right rotation:
+	a is decreased by b,
+	b is increased by a-b,
+	c, d, e, f, g are left alone 
+	
+2)
+i)
+Inserting into a normal binary search tree is O(h) where h is the height of the tree. 
+This new System adds a few new processes to the insertion which include:
+	incrementing parent nodes
+	maintaining rotation rules
+incrementing the parent nodes takes O(h) since there are h-1 parents to increment and the 
+incrementing process is O(1). 
+Maintaining rotation rules is O(h) since there are only h-1 places where the rotate rules could
+have been violated and fixing the rotate rules takes O(1) time. 
+
